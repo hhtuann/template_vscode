@@ -1,0 +1,28 @@
+{
+	"DSA Code": {
+		"prefix": "dsa",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;",
+			"",
+			"#ifdef HoangHoangTuan",
+			"#include <debug.h>",
+			"#else",
+			"#define debug(...) 1901",
+			"#endif",
+			"",
+			"#define LL long long",
+			"#define endl '\\n'",
+			"",
+			"signed main()",
+			"{",
+			"    ios_base::sync_with_stdio(false);",
+			"    cin.tie(nullptr);",
+			"",
+			"    return 0;",
+			"}",
+			"/* Take Off Toward Your Dream ! */"
+		],
+		"description": "DSA Code"
+	}
+}

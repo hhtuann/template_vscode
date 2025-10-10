@@ -1,0 +1,39 @@
+{
+	"Default Code TRR": {
+		"prefix": "trr",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;",
+			"",
+			"#ifdef HoangHoangTuan",
+			"#include <debug.h>",
+			"#else",
+			"#define debug(...) 1901",
+			"#endif",
+			"",
+			"#define LL long long",
+			"#define endl '\\n'",
+			"const string NAME = \"HoangHoangTuan\";",
+			"",
+			"const int MAXN = 1e3 + 5;",
+			"const int INF = 1e9 + 7;",
+			"",
+			"signed main()",
+			"{",
+			"    ios_base::sync_with_stdio(false);",
+			"    cin.tie(nullptr);",
+			"",
+			"    if (fopen((NAME + \".INP\").c_str(), \"r\"))",
+			"    {",
+			"        freopen((NAME + \".INP\").c_str(), \"r\", stdin);",
+			"        freopen((NAME + \".OUT\").c_str(), \"w\", stdout);",
+			"    }",
+			"",
+			"    // solve in here",
+			"    return 0;",
+			"}",
+			"/* Take Off Toward Your Dream ! */"
+		],
+		"description": "Default Code TRR"
+	}
+}
